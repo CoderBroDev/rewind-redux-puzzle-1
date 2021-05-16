@@ -3,14 +3,13 @@
 
 > Open this page at [https://coderbrodev.github.io/rewind-redux-puzzle-1/](https://coderbrodev.github.io/rewind-redux-puzzle-1/)
 
-## Use as Extension
+## Use as game
 
-This repository can be added as an **extension** in MakeCode.
+This repository can be added as a **game** in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/coderbrodev/rewind-redux-puzzle-1** and import
+
 
 ## Edit this project ![Build status badge](https://github.com/coderbrodev/rewind-redux-puzzle-1/workflows/MakeCode/badge.svg)
 
