@@ -1,23 +1,13 @@
  
 
-
-> Open this page at [https://coderbrodev.github.io/rewind-redux-puzzle-1/](https://coderbrodev.github.io/rewind-redux-puzzle-1/)
-
-## Use as game
-
-This repository can be added as a **game** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-
-
-## Edit this project ![Build status badge](https://github.com/coderbrodev/rewind-redux-puzzle-1/workflows/MakeCode/badge.svg)
+## Made for the Makecode Time Jam 2021 
+This second game was made for a jam hosted on itch.io
+## Editing this project 
 
 To edit this repository in MakeCode.
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/coderbrodev/rewind-redux-puzzle-1** and click import
+* Go to this link-https://arcade.makecode.com/62001-93198-74262-78008
+* click on **Edit Code** then wait for **Project**
 
 ## Blocks preview
 
@@ -25,8 +15,3 @@ This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
 ![A rendered view of the blocks](https://github.com/coderbrodev/rewind-redux-puzzle-1/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
